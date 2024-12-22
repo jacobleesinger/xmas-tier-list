@@ -34,6 +34,8 @@
 		"vite": "^5.4.11"
 	},
 	"dependencies": {
+		"@supabase/ssr": "^0.5.2",
+		"@supabase/supabase-js": "^2.47.10",
 		"autoprefixer": "^10.4.20",
 		"daisyui": "^4.12.22",
 		"drizzle-orm": "^0.33.0",
